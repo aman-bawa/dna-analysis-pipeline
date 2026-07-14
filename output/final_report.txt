@@ -1,0 +1,11 @@
+================DNA REPORT====================
+Total Gene: 
+ 3
+highest GC : 
+ KRAS
+ 80.0
+lowest GC : 
+ MYC
+ 25.0
+average GC : 
+ 53.51851851851851
